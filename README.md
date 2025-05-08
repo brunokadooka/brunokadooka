@@ -20,6 +20,8 @@
 👀 Tenho 28 anos e resido em Rancharia, no Oeste Paulista. Trabalhei como auxiliar administrativo/financeiro em uma concessionária de médio porte de 2012 a 2017, período em que pude aprimorar habilidades em ferramentas e técnicas, além de amadurecer profissionalmente. Em 2017, entrei na UTFPR (Universidade Tecnológica Federal do Paraná), no curso de Engenharia de Computação. Em 2020, durante a pandemia, também tive a experiência de trabalhar como MEI, com uma conveniência e mini-mercado. No ano de 2024, estagiei na Prefeitura Municipal de Rancharia, onde apliquei o conhecimento adquirido em Análise de Dados e Automação de Tarefas. Atualmente, busco uma oportunidade no mercado de trabalho para continuar aprendendo e aprimorando minhas habilidades na área de dados, visando compensar com meu esforço e dedicação.
 </p>
 
+👨‍💻 Meu projeto de Portfólio [Teoria de Markowitz](https://github.com/brunokadooka/Teoria_Markowitz)
+
 
 <h3 align="left">Converse Comigo:</h3>
 <p align="left">
