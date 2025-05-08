@@ -4,7 +4,7 @@
 <h3 align="left">Um pouco sobre mim</h3>
 
 <p align="justify">
-🔭 Tenho interesse nas áreas de dados, como Análise de Dados e Ciência de Dados, além de áreas de negócios, como Finanças (empresarial e investimentos) e Contabilidade.
+🔭 Tenho interesse nas áreas de dados, como Análise de Dados e Ciência de Dados;
 </p>
 
 
