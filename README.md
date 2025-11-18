@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou Bruno Kadooka 👋</h1>
-<h3 align="center">Analytics Engineer | Data Analyst | Python & Power BI Specialist</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Python & SQL</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruno-hideo-kadooka-2b64a218b/" target="_blank">
+  <a href="www.linkedin.com/in/brunokadooka" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:seuemail@exemplo.com">
@@ -14,56 +14,64 @@
 
 ### 🚀 Sobre Mim
 
-Engenheiro de Computação com perfil **End-to-End**, focado na resolução de problemas de negócio através de dados. Minha especialidade é construir a ponte entre a engenharia bruta (ETL, Python, SQL) e a inteligência de negócio (Power BI, Dashboards).
+Sou um **Analista de Dados** em transição de carreira, unindo minha formação em **Engenharia de Computação** (UTFPR) com um background sólido em rotinas administrativas e financeiras.
 
-Atualmente, atuo na modernização da infraestrutura de dados no setor público, onde transformei processos manuais em **pipelines automatizados** e **Data Warehouses** analíticos.
+Minha trajetória profissional começou no setor administrativo (2012-2017), onde entendi na prática as dores de negócio de uma empresa. Recentemente, combinei essa vivência com minha capacidade técnica para entregar soluções de alto valor:
 
-* 🔭 **Foco atual:** Engenharia de Dados (ETL), Automação e Business Intelligence.
-* 🎓 **Formação:** Engenharia de Computação (UTFPR).
-* 💡 **Diferencial:** Capacidade de extrair dados de sistemas legados (Firebird) e entregar valor visual (UX/UI em Dashboards).
+* **No Setor Público:** Atuei na modernização da gestão fiscal, estruturando Data Warehouses e automatizando processos com **Python**.
+* **No Setor Privado (Autônomo):** Desenvolvi apresentações de resultados corporativos, transformando dados contábeis (DRE, Metas) em painéis de decisão estratégica.
+
+Meu objetivo é atuar como Analista de Dados ou BI, utilizando tecnologia para eliminar a complexidade técnica e entregar clareza para a tomada de decisão.
+
+* 🔭 **Foco de Estudos:** Modelagem de Dados, Storytelling, Engenharia de Dados, Ciência de Dados e Inglês.
+* 📈 **Destaque:** Especialidade em traduzir relatórios financeiros complexos (DRE, Balanços) em Dashboards visuais e intuitivos.
+* 💼 **Perfil:** Gosto de "colocar a mão na massa" para garantir que o dado chegue correto, desde a extração até o visual final, entregando informações valiosas para o tomador de decisão.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Engenharia & Banco de Dados**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-</div>
+**Business Intelligence & Visualização**
 
-**Analytics & Visualização**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg"> </div>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Data Science & Libraries**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Scikit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-</div>
+
+**Análise & Manipulação de Dados**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
+**Banco de Dados & Engenharia**
+
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-ff0000?style=for-the-badge&logo=firebird&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+**Automação & Web Scraping**
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
 ### 🏆 Projetos em Destaque
 
-| Projeto | Stack | Descrição |
+| Projeto | Ferramentas | O que fiz |
 | :--- | :--- | :--- |
-| **[Municipal Data Warehouse (ETL)](LINK_DO_SEU_REPO_AQUI)** | Python, SQL, Firebird | Pipeline automatizado para migração de dados financeiros de sistema legado para ambiente analítico. |
-| **[Dashboard Executivo Automotivo](LINK_DO_SEU_REPO_AQUI)** | Power BI, DAX, UX | Painel de gestão de vendas com Design Neumórfico e cálculos avançados de inteligência de tempo. |
-| **[Detecção de Phishing (SecOps)](LINK_DO_SEU_REPO_AQUI)** | Python, Random Forest | Modelo de Machine Learning supervisionado para classificação de ameaças de segurança em tempo real. |
-| **[Estudo Quantitativo de Trading](LINK_DO_SEU_REPO_AQUI)** | Python, CRISP-DM | (TCC) Backtesting engine e validação estatística de estratégias de mercado financeiro. |
+| **[Apresentação de Resultados Corporativos (Automotivo)](LINK_DO_SEU_REPO_AQUI)** | Power BI, DAX | Solução completa de BI para diretoria, integrando **Demonstrativo de Resultado (DRE)**, análise de **Metas Operacionais** e **Ranking de Performance**. Foco em UX para substituir apresentações estáticas por dados dinâmicos. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokadooka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokadooka&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunokadooka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokadooka&layout=compact&theme=dracula"/>
 </div>
