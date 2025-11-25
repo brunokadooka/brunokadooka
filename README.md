@@ -52,8 +52,6 @@ Meu objetivo é eliminar a barreira entre TI e Negócio, garantindo que o dado c
 
 ### 🏆 Projetos em Destaque
 
-### 🏆 Projetos em Destaque
-
 | Projeto | Stack | O que fiz |
 | :--- | :--- | :--- |
 | **[Municipal Data Analytics (End-to-End)](https://github.com/brunokadooka/municipal-data-pipeline)** | Python, SQL, Power BI | **Solução End-to-End:** Desenvolvi todo o ciclo do dado, desde a Engenharia (extração de ERP legado e regras de negócio em Python) até a ponta final no **Power BI**. O pipeline alimenta dashboards estratégicos para tomada de decisão na recuperação de crédito. |
