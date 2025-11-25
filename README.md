@@ -14,17 +14,17 @@
 
 ### 🚀 Sobre Mim
 
-Sou um **Analista de Dados** em transição de carreira, unindo minha formação em **Engenharia de Computação** (UTFPR) com um background sólido em rotinas administrativas e financeiras.
+Sou um **Analista de Dados** com perfil de **Analytics Engineer**, unindo formação em **Engenharia de Computação** (UTFPR) com um background sólido em rotinas administrativas e financeiras.
 
-Minha trajetória profissional começou no setor administrativo (2012-2017), onde entendi na prática as dores de negócio de uma empresa. Recentemente, combinei essa vivência com minha capacidade técnica para atuar como **Analytics Engineer**:
+Minha trajetória começou no setor administrativo (2012-2017), onde tive contato direto com os desafios operacionais e estratégicos da empresa. Hoje, utilizo essa visão para criar soluções técnicas que resolvem problemas reais, atuando com autonomia técnica na ponte entre TI e Gestão:
 
-* **No Setor Público:** Lidero a modernização da gestão fiscal, estruturando Pipelines ETL End-to-End, Data Marts e automatizando processos legados com **Python** e **SQL**.
-* **No Setor Privado:** Atuo transformando dados contábeis complexos (DRE, Metas) em painéis de decisão estratégica com foco em UX/UI.
+* **No Setor Público:** Atuo como responsável técnico pela modernização da gestão fiscal, estruturando Pipelines ETL End-to-End (Python/SQL) para substituir processos manuais por automação.
+* **No Setor Privado:** Desenvolvo inteligência comercial, transformando dados contábeis em dashboards estratégicos com foco em UX/UI e tomada de decisão.
 
-Meu objetivo é eliminar a barreira entre TI e Negócio, garantindo que o dado chegue correto, desde a extração no banco até o visual final.
+Meu foco é garantir a confiabilidade e a utilidade do dado, construindo desde a engenharia de extração até a visualização final.
 
-* 🔭 **Foco de Estudos:** Engenharia de Dados (ETL/ELT), Arquitetura de Dados, Storytelling e Inglês.
-* 💼 **Diferencial:** Capacidade de transitar entre o código técnico (Python/SQL) e a regra de negócio financeira.
+* 🔭 **Stack Principal:** Python (Pandas/NumPy), SQL Server, Power BI e Engenharia de Dados (ETL).
+* 💼 **Diferencial:** Autonomia para desenvolver soluções completas (do código à regra de negócio, end-to-end).
 
 ---
 
