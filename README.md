@@ -55,6 +55,7 @@ Meu foco é garantir a confiabilidade e a utilidade do dado, construindo desde a
 | Projeto | Stack | O que fiz |
 | :--- | :--- | :--- |
 | **[Municipal Data Analytics (End-to-End)](https://github.com/brunokadooka/municipal-data-pipeline)** | Python, SQL, Power BI | **Solução End-to-End:** Desenvolvi todo o ciclo do dado, desde a Engenharia (extração de ERP legado e regras de negócio em Python) até a ponta final no **Power BI**. O pipeline alimenta dashboards estratégicos para tomada de decisão na recuperação de crédito. |
+| **[Automotive Sales Dashboard (Redesign UX)](LINK_DO_REPOSITORIO_OU_POST)** | Power BI, UX Design | **Consultoria de BI:** Redesign completo de relatórios gerenciais. Reestruturei painéis existentes com visualização ineficiente, transformando-os em Dashboards focados em **UX/UI** e **Data Storytelling** para agilizar a tomada de decisão. |
 
 
 ---
